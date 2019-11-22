@@ -17,6 +17,7 @@ while menu != 4:
     print("3. Modify the price of the book")
     print("4. Quit the program")
 
+    # Something wrong with this?  What data type does input return?  What data type do you need?
     menu = input()
 
     if menu == 1:
